@@ -11,7 +11,7 @@ const Home = () => {
                 </h1>
   
                 <p>
-                    Programmeur frontend et backend en Licence 3,<br />
+                    Developpeur web en Licence 3,<br />
                     je fais du développement web. Je suis infographe, <br />
                     j’évolue dans le domaine du réseau et suis
                     passionne par la cybersécurité. <br />Je suis

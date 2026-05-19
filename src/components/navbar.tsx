@@ -3,7 +3,7 @@ import { Package  } from 'lucide-react';
 const Navbar = () => {
     return (
         <div className='flex justify-center md:justify-between items-center p-4'>
-            <a href="" className='flex items-center font text-3x1 md:text-2x1'>
+            <a href="" className='flex items-center  text-3x1 md:text-2x1'>
                 <Package  /> <span className='font-bold'>CHERIF</span>
                 <span className='text-accent font-bold text-3x2 md:text-4x1' >DEV</span>
             </a>
