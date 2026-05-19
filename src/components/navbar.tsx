@@ -10,7 +10,7 @@ const Navbar = () => {
             <ul className="hidden md:flex space-x-4">
                 <li>
                     <a href="#Home" className="btn btn-sm btn-gosht">Accueil</a>
-                </li>
+                </li> 
                 <li>
                     <a href="#About" className="btn btn-sm btn-gosht">A propos</a>
                 </li>

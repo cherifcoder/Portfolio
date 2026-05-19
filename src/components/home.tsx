@@ -9,7 +9,7 @@ const Home = () => {
                     Je suis {" "}
                     <span className="text-accent">Cherif S H</span>
                 </h1>
-
+  
                 <p>
                     Programmeur frontend et backend en Licence 3,<br />
                     je fais du développement web. Je suis infographe, <br />
